@@ -1,0 +1,51 @@
+.carousel-item {
+  height: 190px;
+}
+
+.slide-btn{
+  background-color: #0fb3a5;
+}
+
+.slide-btn:hover{
+  background-color: white;
+  color: black;
+  border: 1px solid #0fb3a5;
+}
+
+/* XS */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .carousel-item {
+    height: 300px;
+  }
+}
+
+/* SM */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .carousel-item {
+    height: 350px;
+  }
+}
+
+/* MD */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .carousel-item {
+    height: 450px;
+  }
+}
+
+/* LG */
+@media (min-width: 1200px) {
+  .carousel-item {
+    height: 500px;
+  }
+}
+
+/* Specific screens */
+@media (max-width: 576px) {
+  .supplement-row{
+    justify-content: center;
+  }
+  .supplement-col {
+    max-width: 300px;
+  }
+}
