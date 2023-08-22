@@ -55,7 +55,7 @@
                 <h1>Na samom vrhu!</h1>
             </div>
 
-            <!-- Destinacije -->
+            <!-- Suplementi -->
             <div class="mt-5">
                 <h2>Najnoviji suplementi</h2>
                 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4 supplement-row">
